@@ -15,8 +15,18 @@ npm intall
 ```
 
 ### 3 - Configurações de acesso ao Banco de Dados no .env
+```
+############## DATABASE ################
 
-### 5 - Execute o projeto
+CONNECTION=mysql
+HOST=localhost
+PORT=3306
+USER=root
+PASSWORD=11111111
+DATABASE=teste
+```
+
+### 4 - Execute o projeto
 
 ```bash
 npm start
