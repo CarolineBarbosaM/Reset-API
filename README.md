@@ -8,7 +8,7 @@
 git clone https://github.com/CarolineBarbosaM/Reset-API.git
 ```
 
-### 2 - Instale a Dependências: 
+### 2 - Instale as Dependências: 
 
 ```bash
 npm install
