@@ -1,10 +1,10 @@
 var knex = require('knex')({
-    client: 'mysql',
+    client: process.env.CONNECTION,
     connection: {
-        host: 'localhost',
-        user: 'root',
+        host: process.env.HOST,
+        user: process.env.USER,
         password: '',
-        database: 'apireset'
+        database: process.env.DATABASE
     }
 });
 
