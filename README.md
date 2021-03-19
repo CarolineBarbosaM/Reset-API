@@ -35,7 +35,7 @@ npm start
 ### 5 - Acesse o projeto
 
 ```bash
-localhost:3000
+localhost:4000
 ```
 
 
