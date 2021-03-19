@@ -11,7 +11,7 @@ git clone https://github.com/CarolineBarbosaM/Reset-API.git
 ### 2 - Instale a Dependências: 
 
 ```bash
-npm intall
+npm install
 ```
 
 ### 3 - Configurações de acesso ao Banco de Dados no .env
