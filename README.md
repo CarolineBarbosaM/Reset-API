@@ -32,7 +32,12 @@ DATABASE=teste
 npm start
 ```
 
-E acesse o endereço: [localhost:4000](http://localhost:4000/)
+### 5 - Acesse o projeto
+
+```bash
+localhost:3000
+```
+
 
 
 ### Variáveis de Ambiente 
